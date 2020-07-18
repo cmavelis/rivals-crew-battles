@@ -1,0 +1,92 @@
+[
+  {
+    "game": 1,
+    "stage": "The Forest Floor",
+    "p1": "Livret",
+    "p2": "Akashi",
+    "rival1": "forsburn",
+    "rival2": "absa",
+    "stockLosses": 1121
+  },
+  {
+    "game": 2,
+    "stage": "Merchant Port",
+    "p1": "ProuxEXE",
+    "p2": "Akashi",
+    "rival1": "forsburn",
+    "rival2": "absa",
+    "stockLosses": 1212
+  },
+  {
+    "game": 3,
+    "stage": "Rock Wall",
+    "p1": "ProuxEXE",
+    "p2": "P2W | Pokii",
+    "rival1": "forsburn",
+    "rival2": "ori",
+    "stockLosses": 221
+  },
+  {
+    "game": 4,
+    "stage": "The Forest Floor",
+    "p1": "P2W | Punking",
+    "p2": "P2W | Pokii",
+    "rival1": "shovelknight",
+    "rival2": "ori",
+    "stockLosses": 12
+  },
+  {
+    "game": 5,
+    "stage": "Rock Wall",
+    "p1": "P2W | Punking",
+    "p2": "MOTI | Jazzy",
+    "rival1": "shovelknight",
+    "rival2": "shovelknight",
+    "stockLosses": 1221
+  },
+  {
+    "game": 6,
+    "stage": "Spirit Tree",
+    "p1": "MOTI | Naphel",
+    "p2": "MOTI | Jazzy",
+    "rival1": "clairen",
+    "rival2": "shovelknight",
+    "stockLosses": 2
+  },
+  {
+    "game": 7,
+    "stage": "Tower of Heaven",
+    "p1": "MOTI | Naphel",
+    "p2": "Ohm",
+    "rival1": "clairen",
+    "rival2": "absa",
+    "stockLosses": 2111
+  },
+  {
+    "game": 8,
+    "stage": "Rock Wall",
+    "p1": "SB | Aquatle",
+    "p2": "Ohm",
+    "rival1": "forsburn",
+    "rival2": "absa",
+    "stockLosses": 1122
+  },
+  {
+    "game": 9,
+    "stage": "Julesvale",
+    "p1": "SB | Aquatle",
+    "p2": "breadstick24",
+    "rival1": "forsburn",
+    "rival2": "absa",
+    "stockLosses": 1
+  },
+  {
+    "game": 10,
+    "stage": "Frozen Fortress",
+    "p1": "Beanboyblue",
+    "p2": "breadstick24",
+    "rival1": "zetterburn",
+    "rival2": "absa",
+    "stockLosses": 111
+  }
+]

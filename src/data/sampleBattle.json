@@ -1,0 +1,101 @@
+[
+  {
+    "game": 1,
+    "stage": "Julesvale",
+    "p1": "SB | Punking",
+    "p2": "CK | CodeCrackr",
+    "rival1": "shovelknight",
+    "rival2": "ranno",
+    "stockLosses": 12121
+  },
+  {
+    "game": 2,
+    "stage": "Blazing Hideout",
+    "p1": "SRN | Geo",
+    "p2": "CK | CodeCrackr",
+    "rival1": "etalus",
+    "rival2": "ranno",
+    "stockLosses": 2
+  },
+  {
+    "game": 3,
+    "stage": "Frozen Fortress",
+    "p1": "SRN | Geo",
+    "p2": "Hivemind1",
+    "rival1": "etalus",
+    "rival2": "sylvanos",
+    "stockLosses": 12212
+  },
+  {
+    "game": 4,
+    "stage": "Tower of Heaven",
+    "p1": "SRN | Geo",
+    "p2": "Naphel",
+    "rival1": "etalus",
+    "rival2": "clairen",
+    "stockLosses": 221
+  },
+  {
+    "game": 5,
+    "stage": "Air Armada",
+    "p1": "SB | Aquatle",
+    "p2": "Naphel",
+    "rival1": "forsburn",
+    "rival2": "clairen",
+    "stockLosses": 12
+  },
+  {
+    "game": 6,
+    "stage": "Julesvale",
+    "p1": "SB | Aquatle",
+    "p2": "P2W | Pokii",
+    "rival1": "forsburn",
+    "rival2": "ori",
+    "stockLosses": 1221
+  },
+  {
+    "game": 7,
+    "stage": "Aethereal Gates",
+    "p1": "SB | Bacon",
+    "p2": "P2W | Pokii",
+    "rival1": "orcane",
+    "rival2": "ori",
+    "stockLosses": 2
+  },
+  {
+    "game": 8,
+    "stage": "Frozen Fortress",
+    "p1": "SB | Bacon",
+    "p2": "Beanboyblue",
+    "rival1": "orcane",
+    "rival2": "zetterburn",
+    "stockLosses": 21121
+  },
+  {
+    "game": 9,
+    "stage": "Troupple Pond",
+    "p1": "SB | Gleason",
+    "p2": "Beanboyblue",
+    "rival1": "shovelknight",
+    "rival2": "zetterburn",
+    "stockLosses": 112
+  },
+  {
+    "game": 10,
+    "stage": "Tower of Heaven",
+    "p1": "SB | Gleason",
+    "p2": "breadstick",
+    "rival1": "shovelknight",
+    "rival2": "orcane",
+    "stockLosses": 1
+  },
+  {
+    "game": 11,
+    "stage": "Julesvale",
+    "p1": "Livret",
+    "p2": "breadstick",
+    "rival1": "forsburn",
+    "rival2": "orcane",
+    "stockLosses": 12211
+  }
+]

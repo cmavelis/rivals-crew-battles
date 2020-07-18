@@ -1,0 +1,101 @@
+[
+  {
+    "game": 1,
+    "stage": "The Forest Floor",
+    "p1": "Yoyodespin",
+    "p2": "CK | CodeCrackr",
+    "rival1": "sylvanos",
+    "rival2": "ranno",
+    "stockLosses": 111
+  },
+  {
+    "game": 2,
+    "stage": "Troupple Pond",
+    "p1": "Cork",
+    "p2": "CK | CodeCrackr",
+    "rival1": "maypul",
+    "rival2": "ranno",
+    "stockLosses": 12212
+  },
+  {
+    "game": 3,
+    "stage": "Julesvale",
+    "p1": "Cork",
+    "p2": "P2W | Sigmin",
+    "rival1": "maypul",
+    "rival2": "shovelknight",
+    "stockLosses": 221
+  },
+  {
+    "game": 4,
+    "stage": "The Forest Floor",
+    "p1": "SB | Gleason",
+    "p2": "P2W | Sigmin",
+    "rival1": "shovelknight",
+    "rival2": "shovelknight",
+    "stockLosses": 112
+  },
+  {
+    "game": 5,
+    "stage": "Fire Capitol",
+    "p1": "SB | Gleason",
+    "p2": "CMAvelis",
+    "rival1": "shovelknight",
+    "rival2": "etalus",
+    "stockLosses": 21
+  },
+  {
+    "game": 6,
+    "stage": "Frozen Fortress",
+    "p1": "Aether Knight",
+    "p2": "CMAvelis",
+    "rival1": "sylvanos",
+    "rival2": "etalus",
+    "stockLosses": 122
+  },
+  {
+    "game": 7,
+    "stage": "Tower of Heaven",
+    "p1": "Aether Knight",
+    "p2": "PC | Chopper",
+    "rival1": "sylvanos",
+    "rival2": "shovelknight",
+    "stockLosses": 2212
+  },
+  {
+    "game": 8,
+    "stage": "Julesvale",
+    "p1": "Aether Knight",
+    "p2": "Reltic",
+    "rival1": "sylvanos",
+    "rival2": "ranno",
+    "stockLosses": 1
+  },
+  {
+    "game": 9,
+    "stage": "Frozen Fortress",
+    "p1": "Vindicator",
+    "p2": "Reltic",
+    "rival1": "kragg",
+    "rival2": "ranno",
+    "stockLosses": 2212
+  },
+  {
+    "game": 10,
+    "stage": "Aethereal Gates",
+    "p1": "Vindicator",
+    "p2": "Starbos",
+    "rival1": "kragg",
+    "rival2": "orcane",
+    "stockLosses": 211
+  },
+  {
+    "game": 11,
+    "stage": "Treetop Lodge",
+    "p1": "P2W | Pbj702",
+    "p2": "Starbos",
+    "rival1": "kragg",
+    "rival2": "orcane",
+    "stockLosses": 1212
+  }
+]

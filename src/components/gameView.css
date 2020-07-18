@@ -1,0 +1,13 @@
+.game-view-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.game-view-container * {
+    margin-bottom: 0;
+    align-self: center;
+}
+
+.game-view-matchup {
+    justify-self: center;
+}
