@@ -1,13 +1,35 @@
 .game-view-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
+    margin: 30px 0;
+    grid-gap: 10px;
+    /*background-image: url("../images/earth-water/earth-water-bg.jpg");*/
 }
 
 .game-view-container * {
     margin-bottom: 0;
     align-self: center;
+    /*font-weight: bolder;*/
+}
+
+.game-view-container h4 {
+    font-size: 20px;
 }
 
 .game-view-matchup {
     justify-self: center;
+}
+
+.game-view__left-column {
+    justify-self: end;
+}
+
+.game-view__container > h4,h5,span {
+    justify-self: center;
+}
+
+.game-view__versus-icons {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
 }
