@@ -1,0 +1,101 @@
+[
+  {
+    "game": 1,
+    "stage": "Merchant Port",
+    "p1": "Yoyodespin",
+    "p2": "P2W | Pokii",
+    "rival1": "sylvanos",
+    "rival2": "ori",
+    "stockLosses": 111
+  },
+  {
+    "game": 2,
+    "stage": "The Forest Floor",
+    "p1": "Hivemind1",
+    "p2": "P2W | Pokii",
+    "rival1": "sylvanos",
+    "rival2": "ori",
+    "stockLosses": 222
+  },
+  {
+    "game": 3,
+    "stage": "Tower of Heaven",
+    "p1": "Hivemind1",
+    "p2": "Ohm",
+    "rival1": "sylvanos",
+    "rival2": "absa",
+    "stockLosses": 21122
+  },
+  {
+    "game": 4,
+    "stage": "Merchant Port",
+    "p1": "Hivemind1",
+    "p2": "Akashi",
+    "rival1": "sylvanos",
+    "rival2": "absa",
+    "stockLosses": 1
+  },
+  {
+    "game": 5,
+    "stage": "Troupple Pond",
+    "p1": "SET | FullMetal",
+    "p2": "Akashi",
+    "rival1": "kragg",
+    "rival2": "absa",
+    "stockLosses": 12121
+  },
+  {
+    "game": 6,
+    "stage": "Endless Abyss",
+    "p1": "Aether Knight",
+    "p2": "Akashi",
+    "rival1": "sylvanos",
+    "rival2": "absa",
+    "stockLosses": 2
+  },
+  {
+    "game": 7,
+    "stage": "Julesvale",
+    "p1": "Aether Knight",
+    "p2": "VIBE | Amiki",
+    "rival1": "sylvanos",
+    "rival2": "wrastor",
+    "stockLosses": 21211
+  },
+  {
+    "game": 8,
+    "stage": "Tower of Heaven",
+    "p1": "Vindicator",
+    "p2": "VIBE | Amiki",
+    "rival1": "kragg",
+    "rival2": "wrastor",
+    "stockLosses": 2
+  },
+  {
+    "game": 9,
+    "stage": "Troupple Pond",
+    "p1": "Vindicator",
+    "p2": "Trofest",
+    "rival1": "kragg",
+    "rival2": "wrastor",
+    "stockLosses": 21121
+  },
+  {
+    "game": 10,
+    "stage": "Julesvale",
+    "p1": "P2W | Pbj702",
+    "p2": "Trofest",
+    "rival1": "kragg",
+    "rival2": "wrastor",
+    "stockLosses": 12
+  },
+  {
+    "game": 11,
+    "stage": "Frozen Fortress",
+    "p1": "P2W | Pbj702",
+    "p2": "Breadstick24",
+    "rival1": "kragg",
+    "rival2": "absa",
+    "stockLosses": 2121
+  }
+]

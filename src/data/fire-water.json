@@ -1,0 +1,92 @@
+[
+  {
+    "game": 1,
+    "stage": "Aethereal Gates",
+    "p1": "ProuxEXE",
+    "p2": "P2W | Bacon512",
+    "rival1": "zetterburn",
+    "rival2": "orcane",
+    "stockLosses": 2212
+  },
+  {
+    "game": 2,
+    "stage": "Tower of Heaven",
+    "p1": "ProuxEXE",
+    "p2": "Starbos",
+    "rival1": "zetterburn",
+    "rival2": "orcane",
+    "stockLosses": 121
+  },
+  {
+    "game": 3,
+    "stage": "Spirit Tree",
+    "p1": "NB | Livret",
+    "p2": "Starbos",
+    "rival1": "forsburn",
+    "rival2": "orcane",
+    "stockLosses": 1211
+  },
+  {
+    "game": 4,
+    "stage": "Rock Wall",
+    "p1": "SB | Aquatle",
+    "p2": "Starbos",
+    "rival1": "forsburn",
+    "rival2": "orcane",
+    "stockLosses": 111
+  },
+  {
+    "game": 5,
+    "stage": "Frozen Fortress",
+    "p1": "SRN | Kanda",
+    "p2": "Starbos",
+    "rival1": "zetterburn",
+    "rival2": "orcane",
+    "stockLosses": 2
+  },
+  {
+    "game": 6,
+    "stage": "Aethereal Gates",
+    "p1": "SRN | Kanda",
+    "p2": "P2W | Sigmin",
+    "rival1": "zetterburn",
+    "rival2": "shovelknight",
+    "stockLosses": 21212
+  },
+  {
+    "game": 7,
+    "stage": "Merchant Port",
+    "p1": "SRN | Kanda",
+    "p2": "CK | CodeCrackr",
+    "rival1": "zetterburn",
+    "rival2": "ranno",
+    "stockLosses": 1
+  },
+  {
+    "game": 8,
+    "stage": "The Forest Floor",
+    "p1": "MOTI | Naphel",
+    "p2": "CK | CodeCrackr",
+    "rival1": "clairen",
+    "rival2": "ranno",
+    "stockLosses": 12121
+  },
+  {
+    "game": 9,
+    "stage": "Spirit Tree",
+    "p1": "P2W | Punking",
+    "p2": "CK | CodeCrackr",
+    "rival1": "shovelknight",
+    "rival2": "ranno",
+    "stockLosses": 112
+  },
+  {
+    "game": 10,
+    "stage": "Blazing Hideout",
+    "p1": "P2W | Punking",
+    "p2": "CMAvelis",
+    "rival1": "shovelknight",
+    "rival2": "etalus",
+    "stockLosses": 1
+  }
+]

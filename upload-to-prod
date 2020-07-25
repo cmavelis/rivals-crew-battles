@@ -1,0 +1,6 @@
+npm run build
+
+ssh camave@cameronavelis.com rm -rf rivals.cameronavelis.com/*
+
+scp -r public/* camave@cameronavelis.com:~/rivals.cameronavelis.com
+scp -r extras/.htaccess camave@cameronavelis.com:~/rivals.cameronavelis.com

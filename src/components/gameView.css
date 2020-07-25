@@ -33,3 +33,13 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.battle-replay-roster {
+    display: grid;
+    grid-template: auto auto auto / auto auto;
+}
+
+.battle-replay-layout {
+    display: grid;
+    grid-template-columns: auto auto;
+}
