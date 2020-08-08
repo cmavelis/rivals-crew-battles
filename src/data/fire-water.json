@@ -88,5 +88,14 @@
     "rival1": "shovelknight",
     "rival2": "etalus",
     "stockLosses": 1
+  },
+  {
+    "game": 11,
+    "stage": "",
+    "p1": "",
+    "p2": "SB | Gleason",
+    "rival1": "",
+    "rival2": "shovelknight",
+    "stockLosses": ""
   }
 ]

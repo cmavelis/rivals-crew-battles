@@ -16,7 +16,7 @@ const RivalIcon = ({rival, death=false}) => {
   return (
     <div className="icon-container">
       {death && <div className="icon-overlay">X</div>}
-      {rivalImage ? <Img fixed={rivalImage} /> : <div>noImg</div>}
+      {rivalImage ? <Img fixed={rivalImage} className={`${death ? 'icon--dead' : ''}`} /> : <div>x</div>}
     </div>
   )
 }

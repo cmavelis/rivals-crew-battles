@@ -88,5 +88,14 @@
     "rival1": "zetterburn",
     "rival2": "absa",
     "stockLosses": 111
+  },
+  {
+    "game": 11,
+    "stage": "",
+    "p1": "",
+    "p2": "Trofest",
+    "rival1": "",
+    "rival2": "wrastor",
+    "stockLosses": ""
   }
 ]

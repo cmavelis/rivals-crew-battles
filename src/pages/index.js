@@ -10,6 +10,7 @@ import earthWater from "../data/earth-water"
 import fireAir from "../data/fire-air"
 import earthAir from "../data/earth-air"
 import fireWater from "../data/fire-water"
+import girlChan from "../data/girlchan"
 
 import earthHeader from "../images/earth-water/earth-header.png"
 import earthWaterBg from "../images/earth-water/earth-water-bg.jpg"
@@ -40,8 +41,20 @@ const getBattleRoster = (battleData) => {
     dataFieldsObject.p2.push(game.p2)
     dataFieldsObject.rival1.push(game.rival1)
     dataFieldsObject.rival2.push(game.rival2)
-    playerDirectory.team1[game.p1] = game.rival1
-    playerDirectory.team2[game.p2] = game.rival2
+    if (game.p1 !== '') {
+      playerDirectory.team1[game.p1] = {
+        character: game.rival1,
+        stocksLeft: 3,
+        stocksTaken: []
+      }
+    }
+    if (game.p2 !== '') {
+      playerDirectory.team2[game.p2] = {
+        character: game.rival2,
+        stocksLeft: 3,
+        stocksTaken: []
+      }
+    }
   })
 
   return playerDirectory
@@ -62,6 +75,7 @@ const IndexPage = () => {
         <button onClick={() => {setBattle(fireAir); setImages([])}}>Fire v Air</button>
         <button onClick={() => {setBattle(fireWater); setImages([])}}>Fire v Water</button>
         <button onClick={() => {setBattle(earthAir); setImages([])}}>Earth v Air</button>
+        <button onClick={() => {setBattle(girlChan); setImages([])}}>Girlchan</button>
 
       </div>
       <div>

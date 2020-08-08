@@ -16,4 +16,10 @@
     font-size: 26px;
     color: red;
     z-index: 2;
+    opacity: 100%;
+}
+
+.icon--dead {
+    opacity: 50%;
+    /*filter: grayscale(100%);*/
 }

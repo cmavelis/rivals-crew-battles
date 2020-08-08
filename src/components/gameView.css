@@ -36,10 +36,23 @@
 
 .battle-replay-roster {
     display: grid;
-    grid-template: auto auto auto / auto auto;
+    /*grid-template: auto auto auto / auto auto;*/
+
 }
 
 .battle-replay-layout {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-column-gap: 10px;
 }
+
+.battle-replay-layout--center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.battle-replay-roster--team1 {
+    justify-items: end;
+}
+
